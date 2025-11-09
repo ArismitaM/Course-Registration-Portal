@@ -151,26 +151,6 @@ Handles user input, menus, and communication with the server.
 
 ---
 
-## ✅ Compilation & Execution
-
-### ✅ Compile Server
-```sh
-gcc server.c -o server -lpthread
-
-Run Server
-./server
-Compile Client
-gcc client.c -o client
-Run Client
-./client
-Notes
-
-File-level mutex locking ensures safe concurrent access.
-
-Temporary file method used for safe rewriting of course/user data.
-This system demonstrates:
-
-Operating systems concepts (threading, concurrency, locks)
 
 Socket programming (client–server communication)
 Modular system design for reliability and safety
