@@ -150,7 +150,3 @@ Handles user input, menus, and communication with the server.
 - `adminMenu()` – Admin options  
 
 ---
-
-
-Socket programming (client–server communication)
-Modular system design for reliability and safety
